@@ -1,0 +1,12 @@
+item.create config = CONFIGURATION.botSettings.edit
+
+config.system.key = true
+config.system.verification = true
+config.anti_nuke = true
+config.alt_detect = true
+config.notifications = true
+config.notifications.alerts = true
+config.notifications.warnings = true
+config.notifications.infos = true
+config.botdetect = true
+config.filedetect = true
